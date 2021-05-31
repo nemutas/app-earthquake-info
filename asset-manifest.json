@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/earthquake_info/static/css/main.2488cf5b.chunk.css",
+    "main.js": "/earthquake_info/static/js/main.5af22372.chunk.js",
+    "main.js.map": "/earthquake_info/static/js/main.5af22372.chunk.js.map",
+    "runtime-main.js": "/earthquake_info/static/js/runtime-main.7619b734.js",
+    "runtime-main.js.map": "/earthquake_info/static/js/runtime-main.7619b734.js.map",
+    "static/js/2.5b998d0c.chunk.js": "/earthquake_info/static/js/2.5b998d0c.chunk.js",
+    "static/js/2.5b998d0c.chunk.js.map": "/earthquake_info/static/js/2.5b998d0c.chunk.js.map",
+    "static/js/3.d708aba4.chunk.js": "/earthquake_info/static/js/3.d708aba4.chunk.js",
+    "static/js/3.d708aba4.chunk.js.map": "/earthquake_info/static/js/3.d708aba4.chunk.js.map",
+    "index.html": "/earthquake_info/index.html",
+    "service-worker.js": "/earthquake_info/service-worker.js",
+    "service-worker.js.map": "/earthquake_info/service-worker.js.map",
+    "static/css/main.2488cf5b.chunk.css.map": "/earthquake_info/static/css/main.2488cf5b.chunk.css.map",
+    "static/js/2.5b998d0c.chunk.js.LICENSE.txt": "/earthquake_info/static/js/2.5b998d0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7619b734.js",
+    "static/js/2.5b998d0c.chunk.js",
+    "static/css/main.2488cf5b.chunk.css",
+    "static/js/main.5af22372.chunk.js"
+  ]
+}
