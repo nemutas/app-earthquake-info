@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/earthquake_info/static/css/main.2488cf5b.chunk.css",
-    "main.js": "/earthquake_info/static/js/main.5af22372.chunk.js",
-    "main.js.map": "/earthquake_info/static/js/main.5af22372.chunk.js.map",
+    "main.js": "/earthquake_info/static/js/main.dc63fe0a.chunk.js",
+    "main.js.map": "/earthquake_info/static/js/main.dc63fe0a.chunk.js.map",
     "runtime-main.js": "/earthquake_info/static/js/runtime-main.7619b734.js",
     "runtime-main.js.map": "/earthquake_info/static/js/runtime-main.7619b734.js.map",
     "static/js/2.5b998d0c.chunk.js": "/earthquake_info/static/js/2.5b998d0c.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7619b734.js",
     "static/js/2.5b998d0c.chunk.js",
     "static/css/main.2488cf5b.chunk.css",
-    "static/js/main.5af22372.chunk.js"
+    "static/js/main.dc63fe0a.chunk.js"
   ]
 }
