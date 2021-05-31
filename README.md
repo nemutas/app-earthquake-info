@@ -12,6 +12,12 @@
 * [PWA](https://qiita.com/nemutas/items/8b7d22d4e44d659ef4eb)に対応しています
 
 ### Clone
+githubページからダウンロードまたは、以下のコマンドでCloneを作成します。
+```
+gh repo clone nemutas/earthquake_info
+```
+
+プロジェクトフォルダで以下を実行します。
 ```
 npm install
 ```
