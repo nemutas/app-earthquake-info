@@ -1,5 +1,7 @@
 ### ABOUT
-このアプリケーションは、[気象庁](https://www.jma.go.jp/jma/index.html)から提供されている地震情報のAPIをもとに作られています。
+[EarthquakeInfomation](https://nemutas.github.io/earthquake_info/)
+<br>
+このアプリケーションは、[気象庁](https://www.jma.go.jp/jma/index.html)から提供されている地震情報のAPIをもとに作成しました。
 <br>
 表示される地震情報は、過去1ヵ月間です。
 
