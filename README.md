@@ -1,5 +1,5 @@
 ### ABOUT
-[EarthquakeInfomation](https://nemutas.github.io/earthquake_info/)
+[EarthquakeInfomation](https://nemutas.github.io/earthquake_info/){:target="_blank"}
 <br>
 このアプリケーションは、[気象庁](https://www.jma.go.jp/jma/index.html)から提供されている地震情報のAPIをもとに作成しました。
 <br>
